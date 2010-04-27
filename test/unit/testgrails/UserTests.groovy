@@ -8,7 +8,7 @@ class UserTests extends GrailsUnitTestCase {
     }
 
     protected void tearDown() {
-        super.tearDown()
+        super.tearDown() // Deberia generar conflicto!
     }
 
     void testSomething() {
