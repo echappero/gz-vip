@@ -7,6 +7,6 @@ class User {
 	String name
 	String surname
 	Date dateBorn
-	Integer dnif
+	Integer dni
 	
 }
