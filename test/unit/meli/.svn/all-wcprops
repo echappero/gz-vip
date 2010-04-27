@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/grails_vip/!svn/ver/121/test/unit/meli
+END
+CatalogProductTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/grails_vip/!svn/ver/19/test/unit/meli/CatalogProductTests.groovy
+END
+CategoryTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/grails_vip/!svn/ver/19/test/unit/meli/CategoryTests.groovy
+END
+ItemTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/grails_vip/!svn/ver/121/test/unit/meli/ItemTests.groovy
+END
+PaymentMethodTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/grails_vip/!svn/ver/21/test/unit/meli/PaymentMethodTests.groovy
+END
+CustomerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/grails_vip/!svn/ver/21/test/unit/meli/CustomerTests.groovy
+END
+ReviewTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/grails_vip/!svn/ver/23/test/unit/meli/ReviewTests.groovy
+END
+CatalogProductAttributesTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/grails_vip/!svn/ver/121/test/unit/meli/CatalogProductAttributesTests.groovy
+END
+ItemControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/grails_vip/!svn/ver/22/test/unit/meli/ItemControllerTests.groovy
+END
+ShipMethodTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/grails_vip/!svn/ver/24/test/unit/meli/ShipMethodTests.groovy
+END
+SiteTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/grails_vip/!svn/ver/31/test/unit/meli/SiteTests.groovy
+END
+CalificationTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/grails_vip/!svn/ver/19/test/unit/meli/CalificationTests.groovy
+END
+QuestionTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/grails_vip/!svn/ver/121/test/unit/meli/QuestionTests.groovy
+END

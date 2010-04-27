@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/grails_vip/!svn/ver/137/grails-app/controllers/meli
+END
+QuestionController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/QuestionController.groovy
+END
+CatalogProductController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/CatalogProductController.groovy
+END
+CategoryController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/CategoryController.groovy
+END
+ItemController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/grails_vip/!svn/ver/137/grails-app/controllers/meli/ItemController.groovy
+END
+PaymentMethodController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/PaymentMethodController.groovy
+END
+CustomerController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/CustomerController.groovy
+END
+ReviewController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/ReviewController.groovy
+END
+CatalogProductAttributesController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/CatalogProductAttributesController.groovy
+END
+ShipMethodController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/ShipMethodController.groovy
+END
+SiteController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/SiteController.groovy
+END
+CalificationController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/grails_vip/!svn/ver/13/grails-app/controllers/meli/CalificationController.groovy
+END

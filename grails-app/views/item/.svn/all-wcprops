@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/grails_vip/!svn/ver/142/grails-app/views/item
+END
+_naturalSearchTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/grails_vip/!svn/ver/30/grails-app/views/item/_naturalSearchTemplate.gsp
+END
+_pmsToolidsTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grails_vip/!svn/ver/30/grails-app/views/item/_pmsToolidsTemplate.gsp
+END
+_paymentMethodsTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/grails_vip/!svn/ver/40/grails-app/views/item/_paymentMethodsTemplate.gsp
+END
+_itemDataBoxTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/grails_vip/!svn/ver/101/grails-app/views/item/_itemDataBoxTemplate.gsp
+END
+_hidenLayersTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_hidenLayersTemplate.gsp
+END
+_buyBoxTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/grails_vip/!svn/ver/145/grails-app/views/item/_buyBoxTemplate.gsp
+END
+seoLink.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/grails_vip/!svn/ver/137/grails-app/views/item/seoLink.gsp
+END
+_volverAlListadoTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/grails_vip/!svn/ver/30/grails-app/views/item/_volverAlListadoTemplate.gsp
+END
+_descriptionLblTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/grails_vip/!svn/ver/126/grails-app/views/item/_descriptionLblTemplate.gsp
+END
+_tabsScriptTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grails_vip/!svn/ver/30/grails-app/views/item/_tabsScriptTemplate.gsp
+END
+_communityTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grails_vip/!svn/ver/131/grails-app/views/item/_communityTemplate.gsp
+END
+_vp3ReviewRow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/grails_vip/!svn/ver/91/grails-app/views/item/_vp3ReviewRow.gsp
+END
+_shipMethodsTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/grails_vip/!svn/ver/40/grails-app/views/item/_shipMethodsTemplate.gsp
+END
+_itemsSellerTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/grails_vip/!svn/ver/106/grails-app/views/item/_itemsSellerTemplate.gsp
+END
+_calificacionesTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/grails_vip/!svn/ver/142/grails-app/views/item/_calificacionesTemplate.gsp
+END
+mostrar.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/grails_vip/!svn/ver/137/grails-app/views/item/mostrar.gsp
+END
+_shipCostTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/grails_vip/!svn/ver/40/grails-app/views/item/_shipCostTemplate.gsp
+END
+_starFormTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/grails_vip/!svn/ver/107/grails-app/views/item/_starFormTemplate.gsp
+END
+_vp3QuesRow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/grails_vip/!svn/ver/149/grails-app/views/item/_vp3QuesRow.gsp
+END
+_visorTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/grails_vip/!svn/ver/39/grails-app/views/item/_visorTemplate.gsp
+END
+_midContentTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_midContentTemplate.gsp
+END
+_menuTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_menuTemplate.gsp
+END
+_bannerTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/grails_vip/!svn/ver/73/grails-app/views/item/_bannerTemplate.gsp
+END
+_itemDataBox.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/grails_vip/!svn/ver/50/grails-app/views/item/_itemDataBox.gsp
+END
+_shipmentPaymentsTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_shipmentPaymentsTemplate.gsp
+END
+_educationTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_educationTemplate.gsp
+END
+_stylesAndScriptsTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/grails_vip/!svn/ver/119/grails-app/views/item/_stylesAndScriptsTemplate.gsp
+END
+_pulseRowTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/grails_vip/!svn/ver/30/grails-app/views/item/_pulseRowTemplate.gsp
+END
+_middleScriptTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/grails_vip/!svn/ver/115/grails-app/views/item/_middleScriptTemplate.gsp
+END
+_mPBoxTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/grails_vip/!svn/ver/145/grails-app/views/item/_mPBoxTemplate.gsp
+END
+_vp3FooterTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_vp3FooterTemplate.gsp
+END
+_mclicksBtmTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grails_vip/!svn/ver/30/grails-app/views/item/_mclicksBtmTemplate.gsp
+END
+_headerTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/grails_vip/!svn/ver/145/grails-app/views/item/_headerTemplate.gsp
+END
+_reputationTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grails_vip/!svn/ver/61/grails-app/views/item/_reputationTemplate.gsp
+END
+_exampleTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/grails_vip/!svn/ver/5/grails-app/views/item/_exampleTemplate.gsp
+END

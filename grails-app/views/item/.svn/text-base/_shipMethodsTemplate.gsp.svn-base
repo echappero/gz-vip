@@ -1,0 +1,1 @@
+<div>- ${ship?.description}</div>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/grails_vip/!svn/ver/137/grails-app/domain/meli
+END
+CatalogProduct.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/grails_vip/!svn/ver/91/grails-app/domain/meli/CatalogProduct.groovy
+END
+Category.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/grails_vip/!svn/ver/86/grails-app/domain/meli/Category.groovy
+END
+Item.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/grails_vip/!svn/ver/137/grails-app/domain/meli/Item.groovy
+END
+PaymentMethod.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/grails_vip/!svn/ver/86/grails-app/domain/meli/PaymentMethod.groovy
+END
+Customer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/grails_vip/!svn/ver/111/grails-app/domain/meli/Customer.groovy
+END
+Review.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/grails_vip/!svn/ver/118/grails-app/domain/meli/Review.groovy
+END
+CatalogProductAttributes.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/grails_vip/!svn/ver/82/grails-app/domain/meli/CatalogProductAttributes.groovy
+END
+ShipMethod.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/grails_vip/!svn/ver/86/grails-app/domain/meli/ShipMethod.groovy
+END
+Site.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/grails_vip/!svn/ver/86/grails-app/domain/meli/Site.groovy
+END
+Calification.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/grails_vip/!svn/ver/111/grails-app/domain/meli/Calification.groovy
+END
+Question.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/grails_vip/!svn/ver/111/grails-app/domain/meli/Question.groovy
+END
