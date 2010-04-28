@@ -62,5 +62,4 @@ class ItemController {
 		log.debug "paramsArray[2]= ${paramsArray[2]}"
 		redirect(action:mostrar, params:[id:paramsArray[2], site:paramsArray[1]])
 	}
-    
 }

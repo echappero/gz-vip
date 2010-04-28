@@ -15,5 +15,4 @@ class Site {
 	String toString() {
 		"${siteId} (id=${id})"
 	}
-
 }

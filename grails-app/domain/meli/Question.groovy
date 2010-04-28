@@ -5,7 +5,7 @@ import java.util.Date;
 
 class Question {
 	static belongsTo=[item:Item]
-
+	
 	String question
 	Date questionDt
 	String answer
